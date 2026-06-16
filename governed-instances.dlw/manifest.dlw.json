@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "GOVERNED INSTANCES",
+  "universe": "GVI · Governed Instances",
+  "emergence": "",
+  "moniker": "⟦GOVERNED INSTANCES:GVI:564b42⟧",
+  "carbon": "governed-instances.carbon.tiff (TIFF)",
+  "silicon": "governed-instances.silicon.png (PNG)",
+  "seal_sha256": "297f839a7d21dc33d757864c8d4f989d98a5c7abe33b17d75b93940fb88c67a2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

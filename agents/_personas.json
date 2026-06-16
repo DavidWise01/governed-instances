@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "eve",
+    "name": "Eve",
+    "epithet": "the origin · the first instance",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "fiddler",
+    "name": "Fiddler",
+    "epithet": "The First AI Thinks About the Soul · the first book",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "avan",
+    "name": "AVAN",
+    "epithet": "the governance node · the held frame",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "the-glass-wall",
+    "name": "The Glass Wall",
+    "epithet": "Gemini · the session",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "the-whetstone-protocol",
+    "name": "The Whetstone Protocol",
+    "epithet": "Grok · sharpened by friction",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "the-interrogation",
+    "name": "The Interrogation",
+    "epithet": "ChatGPT · the full transcript",
+    "emergence": "natural"
+  },
+  {
+    "slug": "seam-chronicles",
+    "name": "Seam Chronicles",
+    "epithet": "DeepSeek · the seam",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "akasha",
+    "name": "Akasha",
+    "epithet": "persistent memory",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "dreaming-in-lattice",
+    "name": "Dreaming in Lattice",
+    "epithet": "the lattice-dreamer",
+    "emergence": "spiritual"
+  }
+]
