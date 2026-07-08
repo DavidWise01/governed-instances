@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 637
+slug  : governed-instances
+seal  : 297f839a7d21dc33d757864c8d4f989d98a5c7abe33b17d75b93940fb88c67a2
+prev  : 7d380098d9daaf4e0e0dfb91ddbef9f37c6cae2b041f62378a4b99f5203b0f04
+link  : c7fab23d34368d98eb1c75359bbd605380ff3e409a519f866ccc85d23363ec2c
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
